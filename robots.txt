@@ -1,0 +1,49 @@
+# ══════════════════════════════════════════════════════════════
+#  robots.txt — kashmirstay.in
+#  Kashmir Travel & Stay Guide
+#  Partner platform: makemetop.in (MBP)
+#  Last updated: 2025
+# ══════════════════════════════════════════════════════════════
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 2
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 3
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 3
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 5
+
+User-agent: facebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+User-agent: *
+Allow: /
+
+# ── Block unnecessary files ──
+Disallow: /*.json$
+Disallow: /*.md$
+Disallow: /node_modules/
+
+# ── Sitemap ──
+Sitemap: https://kashmirstay.in/sitemap.xml
