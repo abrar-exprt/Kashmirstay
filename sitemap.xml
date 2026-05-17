@@ -1,78 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-          http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!--
-    ══════════════════════════════════════════════════════════════
-    KashmirStay.in — Kashmir Travel & Stay Guide
-    Partner platform: makemetop.in (MBP Directory + AI)
-    Srinagar, Jammu & Kashmir, India
-
-    All pages are static HTML — no dynamic content.
-    Update lastmod dates whenever you edit a page.
-    ══════════════════════════════════════════════════════════════
-  -->
-
-  <!-- ══ HOMEPAGE ══ -->
+  <!-- HOME -->
   <url>
     <loc>https://kashmirstay.in/</loc>
-    <lastmod>2025-06-01</lastmod>
+    <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://kashmirstay.in/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571536802807-30451e3955d8?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Dal Lake Srinagar Kashmir sunrise with houseboats</image:caption>
+    </image:image>
   </url>
 
-  <!-- ══ DESTINATION GUIDES ══ -->
-  <url>
-    <loc>https://kashmirstay.in/gulmarg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://kashmirstay.in/pahalgam.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://kashmirstay.in/dal-lake.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://kashmirstay.in/sonamarg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kashmirstay.in/ladakh.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <!-- SRINAGAR -->
   <url>
     <loc>https://kashmirstay.in/srinagar.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kashmirstay.in/gurez.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://kashmirstay.in/srinagar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/srinagar.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571536802807-30451e3955d8?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Dal Lake Srinagar houseboats sunrise Kashmir</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1548013146-72479768bada?w=600&amp;h=400&amp;fit=crop</image:loc>
+      <image:caption>Shalimar Bagh Mughal garden Srinagar Kashmir</image:caption>
+    </image:image>
   </url>
 
-  <!-- ══ PACKAGES ══ -->
+  <!-- GULMARG -->
+  <url>
+    <loc>https://kashmirstay.in/gulmarg.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/gulmarg.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/gulmarg.html"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/gulmarg.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://kashmirstay.in/gulmarg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/gulmarg.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1601975312994-bf64db9e9d47?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Gulmarg ski resort gondola Kashmir winter</image:caption>
+    </image:image>
+  </url>
+
+  <!-- PAHALGAM -->
+  <url>
+    <loc>https://kashmirstay.in/pahalgam.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/pahalgam.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/pahalgam.html"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/pahalgam.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/pahalgam.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Pahalgam Betab Valley Kashmir honeymoon green meadow</image:caption>
+    </image:image>
+  </url>
+
+  <!-- SONAMARG -->
+  <url>
+    <loc>https://kashmirstay.in/sonamarg.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/sonamarg.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/sonamarg.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/sonamarg.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Sonamarg Thajiwas Glacier Kashmir Meadow of Gold</image:caption>
+    </image:image>
+  </url>
+
+  <!-- LADAKH -->
+  <url>
+    <loc>https://kashmirstay.in/ladakh.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/ladakh.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/ladakh.html"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/ladakh.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://kashmirstay.in/ladakh.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://kashmirstay.in/ladakh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/ladakh.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Pangong Tso Lake Leh Ladakh mountains blue water</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1567157577867-05c1073e82d5?w=600&amp;h=400&amp;fit=crop</image:loc>
+      <image:caption>Pangong Lake 3 Idiots scene Leh Ladakh India</image:caption>
+    </image:image>
+  </url>
+
+  <!-- GUREZ -->
+  <url>
+    <loc>https://kashmirstay.in/gurez.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/gurez.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/gurez.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/gurez.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1605493669671-bcda3b7d8ee6?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Gurez Valley Kishanganga River Kashmir hidden gem</image:caption>
+    </image:image>
+  </url>
+
+  <!-- DAL LAKE -->
+  <url>
+    <loc>https://kashmirstay.in/dal-lake.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/dal-lake.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/dal-lake.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/dal-lake.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571536802807-30451e3955d8?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Dal Lake shikara ride houseboats Srinagar sunset</image:caption>
+    </image:image>
+  </url>
+
+  <!-- PACKAGES -->
   <url>
     <loc>https://kashmirstay.in/packages.html</loc>
-    <lastmod>2025-06-01</lastmod>
+    <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://kashmirstay.in/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://kashmirstay.in/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://kashmirstay.in/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://kashmirstay.in/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/packages.html"/>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571536802807-30451e3955d8?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:caption>Kashmir tour packages 2025 honeymoon family adventure</image:caption>
+    </image:image>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://kashmirstay.in/contact.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://kashmirstay.in/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kashmirstay.in/contact.html"/>
   </url>
 
 </urlset>
